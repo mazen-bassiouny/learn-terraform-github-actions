@@ -9,7 +9,7 @@ terraform {
   }
 
   backend "remote" {
-    organization = "mazonaa"
+    organization = "mazen"
 
     workspaces {
       name = "gh-actions-demo"
